@@ -9,7 +9,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🔎 Também sou curioso sobre true crime, música e jogos;
+🔎 Também sou curiosa sobre true crime, música e jogos;
 
 ✒️ Eu gosto de no meu tempo livre jogar, tocar violão, tocar violino e programar;
 

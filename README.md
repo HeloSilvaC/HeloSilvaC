@@ -1,21 +1,16 @@
-# Oi, me chamo Helo 👋
+# Olá, me chamo Helo 👋
 
 ### Sobre mim
 
-💻 Estudante de Informática | 4º ano | IFPR Campus Paranavaí | Apaixonada por programação | Aprendendo, crescendo e compartilhando 🌱
-
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
+💻 Estudante do Técnico em Informática Integrado ao Ensino Médio | 4º ano | IFPR Campus Paranavaí | Apaixonada por programação | Aprendendo, crescendo e compartilhando 🌱
 
 🔎 Também sou curiosa sobre true crime, músicas e jogos;
 
 ✒️ Eu gosto de no meu tempo livre jogar, tocar violão, tocar violino, assistir algo e programar;
 
-
-**Tecnologias e Ferramentas**
+### Tecnologias e Ferramentas
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -34,11 +29,6 @@
 O MannaSpy é uma ferramenta educacional inovadora projetada para capacitar crianças em relação à tecnologia, privacidade e segurança online. Diante do cenário de rápido avanço tecnológico e dos desafios crescentes, o MannaSpy visa preencher a lacuna na educação prática e interativa dessas questões.
 
 [Link para o Repositório do MannaSpy](https://github.com/HeloSilvaC/MannaSpy.git)
-
-<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
 
 ### GitHub Stats ⚡
 <div>

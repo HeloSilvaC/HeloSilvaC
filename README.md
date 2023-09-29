@@ -1,5 +1,3 @@
-# academy-template-readme-profile
-
 # Oi, me chamo Helo 👋
 
 ### Sobre mim
@@ -9,9 +7,9 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🔎 Também sou curiosa sobre true crime, música e jogos;
+🔎 Também sou curiosa sobre true crime, músicas e jogos;
 
-✒️ Eu gosto de no meu tempo livre jogar, tocar violão, tocar violino e programar;
+✒️ Eu gosto de no meu tempo livre jogar, tocar violão, tocar violino, assistir algo e programar;
 
 
 **Tecnologias e Ferramentas**
@@ -27,10 +25,15 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Meu TCC: MannaSpy 🎓
 
+O MannaSpy é uma ferramenta educacional inovadora projetada para capacitar crianças em relação à tecnologia, privacidade e segurança online. Diante do cenário de rápido avanço tecnológico e dos desafios crescentes, o MannaSpy visa preencher a lacuna na educação prática e interativa dessas questões.
+
+[Link para o Repositório do MannaSpy](https://github.com/HeloSilvaC/MannaSpy.git)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 <!--
@@ -40,8 +43,8 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/HeloSilvaC">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloSilvaC&layout=compact&langs_count=8&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeloSilvaC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloSilvaC&layout=compact&langs_count=15&theme=dracula"/>
 </div>
 
 ### Entre em contato comigo! 📭

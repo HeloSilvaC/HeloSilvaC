@@ -2,11 +2,22 @@
 
 ### Sobre mim
 
-💻 Estudante do Técnico em Informática Integrado ao Ensino Médio | 4º ano | IFPR Campus Paranavaí | Apaixonada por programação | Aprendendo, crescendo e compartilhando 🌱
+💻 Formada no Técnico em Informática Integrado ao Ensino Médio - IFPR Campus Paranavaí | Apaixonada por programação | Sempre em busca de aprendizado e compartilhamento 🌱
 
 🔎 Também sou curiosa sobre true crime, músicas e jogos;
 
 ✒️ Eu gosto de no meu tempo livre jogar, tocar violão, tocar violino, assistir algo e programar;
+
+### Experiência Profissional 💼
+
+Desenvolvedora Júnior
+
+Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. 
+
+### Educação e Formação 🎓
+FULL STACK PHP DEVELOPER | UpInside
+
+Atualmente em Curso
 
 ### Tecnologias e Ferramentas
 

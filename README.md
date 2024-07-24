@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Formada no Técnico em Informática Integrado ao Ensino Médio - IFPR Campus Paranavaí | Apaixonada por programação | Sempre em busca de aprendizado e compartilhamento 🌱
+💻 Formado em Técnico em Informática Integrado ao Ensino Médio pelo IFPR Campus Paranavaí | Graduanda em Ciência da Computação na UTFPR Campus Campo Mourão | Apaixonada por programação | Sempre em busca de aprendizado e compartilhamento 🌱
 
 🔎 Também sou curiosa sobre true crime, músicas e jogos;
 
